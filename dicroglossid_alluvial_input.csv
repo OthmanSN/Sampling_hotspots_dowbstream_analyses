@@ -1,0 +1,393 @@
+sample_id,genbank_species,a1_assignment,a1_species,a1_clade,country,locality,match_status,source
+HNFL01,Fejervarya limnocharis,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Fuluo, Hainan Island",mismatch,Yang et al. (2022)
+HNFL02,Fejervarya limnocharis,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Fuluo, Hainan Island",mismatch,Yang et al. (2022)
+HNFL03,Fejervarya limnocharis,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Fuluo, Hainan Island",mismatch,Yang et al. (2022)
+HNLY01,Fejervarya limnocharis,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Luoyang, Henan",mismatch,Yang et al. (2022)
+HNXY05,Fejervarya limnocharis,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Xinyang, Henan",mismatch,Yang et al. (2022)
+SHLC15,Fejervarya limnocharis,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Luchao, Shanghai",mismatch,Yang et al. (2022)
+ZJDQ05,Fejervarya limnocharis,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Hangzhou, Zhejiang",mismatch,Yang et al. (2022)
+ZJDQ09,Fejervarya limnocharis,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Hangzhou, Zhejiang",mismatch,Yang et al. (2022)
+ZJJX04,Fejervarya limnocharis,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Hangzhou, Zhejiang",mismatch,Yang et al. (2022)
+ZJJX10,Fejervarya limnocharis,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Hangzhou, Zhejiang",mismatch,Yang et al. (2022)
+ZJLX05,Fejervarya limnocharis,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Jinhua, Zhejiang",mismatch,Yang et al. (2022)
+ZJLX06,Fejervarya limnocharis,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Jinhua, Zhejiang",mismatch,Yang et al. (2022)
+ZJLX08,Fejervarya limnocharis,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Jinhua, Zhejiang",mismatch,Yang et al. (2022)
+ZJLX09,Fejervarya limnocharis,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Jinhua, Zhejiang",mismatch,Yang et al. (2022)
+ZJLX10,Fejervarya limnocharis,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Jinhua, Zhejiang",mismatch,Yang et al. (2022)
+ZJLX12,Fejervarya limnocharis,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Jinhua, Zhejiang",mismatch,Yang et al. (2022)
+ZJLX14,Fejervarya limnocharis,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Jinhua, Zhejiang",mismatch,Yang et al. (2022)
+ZJLX15,Fejervarya limnocharis,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Jinhua, Zhejiang",mismatch,Yang et al. (2022)
+ZJNB04,Fejervarya limnocharis,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Beilun, Zhejiang",mismatch,Yang et al. (2022)
+ZJPH02,Fejervarya limnocharis,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Pinghu, Zhejiang",mismatch,Yang et al. (2022)
+ZJPH03,Fejervarya limnocharis,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Pinghu, Zhejiang",mismatch,Yang et al. (2022)
+ZJPH04,Fejervarya limnocharis,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Pinghu, Zhejiang",mismatch,Yang et al. (2022)
+ZJPH05,Fejervarya limnocharis,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Pinghu, Zhejiang",mismatch,Yang et al. (2022)
+ZJPJ01,Fejervarya limnocharis,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Jinhua, Zhejiang",mismatch,Yang et al. (2022)
+ZJPJ02,Fejervarya limnocharis,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Jinhua, Zhejiang",mismatch,Yang et al. (2022)
+ZJPJ03,Fejervarya limnocharis,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Jinhua, Zhejiang",mismatch,Yang et al. (2022)
+ZJPJ04,Fejervarya limnocharis,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Jinhua, Zhejiang",mismatch,Yang et al. (2022)
+ZJPJ05,Fejervarya limnocharis,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Jinhua, Zhejiang",mismatch,Yang et al. (2022)
+ZJPJ09,Fejervarya limnocharis,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Jinhua, Zhejiang",mismatch,Yang et al. (2022)
+ZJPJ11,Fejervarya limnocharis,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Jinhua, Zhejiang",mismatch,Yang et al. (2022)
+ZJPJ15,Fejervarya limnocharis,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Jinhua, Zhejiang",mismatch,Yang et al. (2022)
+ZSHX06,Fejervarya limnocharis,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Huangxing, Zhoushan",mismatch,Yang et al. (2022)
+ZSKZ08,Fejervarya limnocharis,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Kuzhu,Zhoushan",mismatch,Yang et al. (2022)
+GZBY01,Fejervarya limnocharis,Fejervarya kawamurai (Clade I),Fejervarya kawamurai,Clade I,China,Guangzhou,mismatch,Yang et al. (2022)
+GZBY02,Fejervarya limnocharis,Fejervarya kawamurai (Clade I),Fejervarya kawamurai,Clade I,China,Guangzhou,mismatch,Yang et al. (2022)
+GZBY04,Fejervarya limnocharis,Fejervarya kawamurai (Clade I),Fejervarya kawamurai,Clade I,China,Guangzhou,mismatch,Yang et al. (2022)
+GZBY05,Fejervarya limnocharis,Fejervarya kawamurai (Clade I),Fejervarya kawamurai,Clade I,China,Guangzhou,mismatch,Yang et al. (2022)
+HNXY05,Fejervarya limnocharis,Fejervarya kawamurai (Clade I),Fejervarya kawamurai,Clade I,China,Shanghai,mismatch,Yang et al. (2022)
+ZJPH12,Fejervarya limnocharis,Fejervarya kawamurai (Clade I),Fejervarya kawamurai,Clade I,China,"Shaoxing, Zhejiang",mismatch,Yang et al. (2022)
+ZSBQ11,Fejervarya limnocharis,Fejervarya kawamurai (Clade I),Fejervarya kawamurai,Clade I,China,"Baiquan, Zhoushan",mismatch,Yang et al. (2022)
+ZSDD03,Fejervarya limnocharis,Fejervarya kawamurai (Clade I),Fejervarya kawamurai,Clade I,China,"Daidong, Zhoushan",mismatch,Yang et al. (2022)
+ZSDF01,Fejervarya limnocharis,Fejervarya kawamurai (Clade I),Fejervarya kawamurai,Clade I,China,"Dongfu, Zhoushan",mismatch,Yang et al. (2022)
+ZSDF03,Fejervarya limnocharis,Fejervarya kawamurai (Clade I),Fejervarya kawamurai,Clade I,China,"Dongfu, Zhoushan",mismatch,Yang et al. (2022)
+ZSDH02,Fejervarya limnocharis,Fejervarya kawamurai (Clade I),Fejervarya kawamurai,Clade I,China,"Donghai, Zhoushan",mismatch,Yang et al. (2022)
+ZSDJ12,Fejervarya limnocharis,Fejervarya kawamurai (Clade I),Fejervarya kawamurai,Clade I,China,"Daijia, Zhoushan",mismatch,Yang et al. (2022)
+ZSGJ01,Fejervarya limnocharis,Fejervarya kawamurai (Clade I),Fejervarya kawamurai,Clade I,China,"Shaoxing, Zhejiang",mismatch,Yang et al. (2022)
+ZSGL04,Fejervarya limnocharis,Fejervarya kawamurai (Clade I),Fejervarya kawamurai,Clade I,China,"Ganlan,Zhoushan",mismatch,Yang et al. (2022)
+ZSGQ06,Fejervarya limnocharis,Fejervarya kawamurai (Clade I),Fejervarya kawamurai,Clade I,China,"Gouqi, Zhoushan",mismatch,Yang et al. (2022)
+ZSHL03,Fejervarya limnocharis,Fejervarya kawamurai (Clade I),Fejervarya kawamurai,Clade I,China,"Huanglong, Zhoushan",mismatch,Yang et al. (2022)
+ZSHN01,Fejervarya limnocharis,Fejervarya kawamurai (Clade I),Fejervarya kawamurai,Clade I,China,"Huaniao, Zhoushan",mismatch,Yang et al. (2022)
+ZSHX06,Fejervarya limnocharis,Fejervarya kawamurai (Clade I),Fejervarya kawamurai,Clade I,China,"Huangxing, Zhoushan",mismatch,Yang et al. (2022)
+ZSJH01,Fejervarya limnocharis,Fejervarya kawamurai (Clade I),Fejervarya kawamurai,Clade I,China,"Jihu, Zhoushan",mismatch,Yang et al. (2022)
+ZSKZ08,Fejervarya limnocharis,Fejervarya kawamurai (Clade I),Fejervarya kawamurai,Clade I,China,"Kuzhu, Zhoushan",mismatch,Yang et al. (2022)
+ZSMZH01,Fejervarya limnocharis,Fejervarya kawamurai (Clade I),Fejervarya kawamurai,Clade I,China,"Miaozihu, Zhoushan",mismatch,Yang et al. (2022)
+ZSMZH02,Fejervarya limnocharis,Fejervarya kawamurai (Clade I),Fejervarya kawamurai,Clade I,China,"Miaozihu, Zhoushan",mismatch,Yang et al. (2022)
+ZSMZH03,Fejervarya limnocharis,Fejervarya kawamurai (Clade I),Fejervarya kawamurai,Clade I,China,"Miaozihu, Zhoushan",mismatch,Yang et al. (2022)
+ZSNP03,Fejervarya limnocharis,Fejervarya kawamurai (Clade I),Fejervarya kawamurai,Clade I,China,"Nanpu, Zhoushan",mismatch,Yang et al. (2022)
+ZSQB04,Fejervarya limnocharis,Fejervarya kawamurai (Clade I),Fejervarya kawamurai,Clade I,China,"Qingbang, Zhoushan",mismatch,Yang et al. (2022)
+ZSQS02,Fejervarya limnocharis,Fejervarya kawamurai (Clade I),Fejervarya kawamurai,Clade I,China,"Qushan, Zhoushan,",mismatch,Yang et al. (2022)
+ZSSN05,Fejervarya limnocharis,Fejervarya kawamurai (Clade I),Fejervarya kawamurai,Clade I,China,"Shengshan, Zhoushan",mismatch,Yang et al. (2022)
+ZSSN09,Fejervarya limnocharis,Fejervarya kawamurai (Clade I),Fejervarya kawamurai,Clade I,China,"Sannong, Zhoushan",mismatch,Yang et al. (2022)
+ZSSS05,Fejervarya limnocharis,Fejervarya kawamurai (Clade I),Fejervarya kawamurai,Clade I,China,"Sannong, Zhoushan",mismatch,Yang et al. (2022)
+ZSTT06,Fejervarya limnocharis,Fejervarya kawamurai (Clade I),Fejervarya kawamurai,Clade I,China,"Tiantu,Zhoushan",mismatch,Yang et al. (2022)
+ZSXYS01,Fejervarya limnocharis,Fejervarya kawamurai (Clade I),Fejervarya kawamurai,Clade I,China,"Xiaoyangshan,Zhoushan",mismatch,Yang et al. (2022)
+ZSYD09,Fejervarya limnocharis,Fejervarya kawamurai (Clade I),Fejervarya kawamurai,Clade I,China,"Yandun,Zhoushan",mismatch,Yang et al. (2022)
+ZSZM14,Fejervarya limnocharis,Fejervarya kawamurai (Clade I),Fejervarya kawamurai,Clade I,China,"Zhanmao,Zhoushan",mismatch,Yang et al. (2022)
+Full mtDNA,Fejervarya kawamurai,Fejervarya kawamurai (Clade I),Fejervarya kawamurai,Clade I,China,"Zunyi city, Guizhou",match,Cheng et al. (2014)
+ZJLX05,Fejervarya limnocharis,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Jinhua, Zhejiang",mismatch,Yang et al. (2022)
+ZJLX06,Fejervarya limnocharis,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Zhejiang, China",mismatch,Yang et al. (2022)
+ZJLX08,Fejervarya limnocharis,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Zhejiang, China",mismatch,Yang et al. (2022)
+ZJLX09,Fejervarya limnocharis,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Zhejiang, China",mismatch,Yang et al. (2022)
+ZJLX12,Fejervarya limnocharis,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Zhejiang, China",mismatch,Yang et al. (2022)
+ZJLX14,Fejervarya limnocharis,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Zhejiang, China",mismatch,Yang et al. (2022)
+ZJLX15,Fejervarya limnocharis,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Zhejiang, China",mismatch,Yang et al. (2022)
+ZJPH02,Fejervarya limnocharis,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Zhejiang, China",mismatch,Yang et al. (2022)
+ZJPH03,Fejervarya limnocharis,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Zhejiang, China",mismatch,Yang et al. (2022)
+ZJPH04,Fejervarya limnocharis,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Zhejiang, China",mismatch,Yang et al. (2022)
+ZJPH05,Fejervarya limnocharis,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Zhejiang, China",mismatch,Yang et al. (2022)
+Jp1,Fejervarya sakishimensis,Fejervarya sakishimensis,Fejervarya sakishimensis,,Japan,"Iriomote Island, Japan",match,Kotaki et al. (2010)
+CAS 235484,Fejervarya limnocharis,Fejervarya limnocharis (Clade II),Fejervarya limnocharis,Clade II,Thailand,Krung Thep Mahanakhon (Bangkok),match,Koehler et al. (2019)
+CAS 215116,Fejervarya limnocharis,Fejervarya limnocharis (Clade II),Fejervarya limnocharis,Clade II,China,"Shanjiang village, just S of Liuku, Yunnan",match,Koehler et al. (2019)
+CAS 228131,Fejervarya limnocharis,Fejervarya limnocharis (Clade II),Fejervarya limnocharis,Clade II,China,"Shanjiang village, just S of Liuku, Yunnan",match,Koehler et al. (2019)
+CAS 228129,Fejervarya limnocharis,Fejervarya limnocharis (Clade II),Fejervarya limnocharis,Clade II,China,"Liuku bridge, Yunnan",match,Koehler et al. (2019)
+CAS 230367,Fejervarya limnocharis,Fejervarya limnocharis (Clade II),Fejervarya limnocharis,Clade II,Verified,"Township, Pidaung Wildlife Sanctuary, near Ma-Li-Hka Village",match,
+CAS 234814,Fejervarya limnocharis,Fejervarya limnocharis (Clade II),Fejervarya limnocharis,Clade II,Myanmar,"Chin: Kanpatlat Township, in Kanpatlat",match,Koehler et al. (2019)
+CAS 234815,Fejervarya limnocharis,Fejervarya limnocharis (Clade II),Fejervarya limnocharis,Clade II,Myanmar,"Chin: Kanpatlat Township, in Kanpatlat",match,Koehler et al. (2019)
+CAS 235276,Fejervarya limnocharis,Fejervarya limnocharis (Clade II),Fejervarya limnocharis,Clade II,Myanmar,"Kanpatlat Township, Let Mon Village",match,Kotaki et al. (2010)
+SMF 104127,Fejervarya limnocharis,Fejervarya limnocharis (Clade II),Fejervarya limnocharis,Clade II,Thailand,"Mae Hong Son, Pangmapha, Ban Soppong",match,Kotaki et al. (2010)
+Thai-1,Fejervarya limnocharis,Fejervarya limnocharis (Clade II),Fejervarya limnocharis,Clade II,Thailand,Ranong,match,Kotaki et al. (2010)
+Thai-2,Fejervarya limnocharis,Fejervarya limnocharis (Clade II),Fejervarya limnocharis,Clade II,Thailand,Tha Ton,match,Kotaki et al. (2010)
+Thai-3,Fejervarya limnocharis,Fejervarya limnocharis (Clade II),Fejervarya limnocharis,Clade II,Thailand,Mae Hong Son,match,Koehler et al. (2019)
+Thai-4,Fejervarya limnocharis,Fejervarya limnocharis (Clade II),Fejervarya limnocharis,Clade II,Thailand,Nakhon Si Thammarat,match,Koehler et al. (2019)
+SMF 104128,Fejervarya limnocharis,Fejervarya limnocharis (Clade II),Fejervarya limnocharis,Clade II,Thailand,"Mae Hong Son, Pangmapha, Ban Soppong",match,Koehler et al. (2019)
+SMF 104131,Fejervarya limnocharis,Fejervarya limnocharis (Clade II),Fejervarya limnocharis,Clade II,Thailand,"Pangmapha, near Ban Nam Rin, Thailand",match,Koehler et al. (2019)
+SMF 105119,Fejervarya limnocharis,Fejervarya limnocharis (Clade II),Fejervarya limnocharis,Clade II,Thailand,"Ridge north of viewpoint between Pangmapha and Pai, Thailand",match,Ziegler et al. (2000)
+SMF 105120,Fejervarya limnocharis,Fejervarya limnocharis (Clade II),Fejervarya limnocharis,Clade II,Thailand,"Ridge north of viewpoint between Pangmapha and Pai, Thailand",match,Ziegler et al. (2000)
+SMF 105121,Fejervarya limnocharis,Fejervarya limnocharis (Clade II),Fejervarya limnocharis,Clade II,Thailand,"Pangmapha district, at NamLang River, Thailand",match,"Miller et al. (2022), unpublished"
+TZ25,Fejervarya limnocharis,Fejervarya limnocharis (Clade II),Fejervarya limnocharis,Clade II,Vietnam,North Vietnam,match,Grosjean et al. (2015)
+TZ98105,Fejervarya limnocharis,Fejervarya limnocharis (Clade II),Fejervarya limnocharis,Clade II,Vietnam,North Vietnam,match,Grosjean et al. (2015)
+sample_100,Fejervarya limnocharis,Fejervarya limnocharis (Clade II),Fejervarya limnocharis,Clade II,Vietnam,"Northern Karsh forest, Vietnam",match,Grosjean et al. (2015)
+1999.5721,Fejervarya limnocharis,Fejervarya limnocharis (Clade II),Fejervarya limnocharis,Clade II,Vietnam,"Lao Cai, Sapa",match,Grosjean et al. (2015)
+2004.0208,Fejervarya limnocharis,Fejervarya limnocharis (Clade II),Fejervarya limnocharis,Clade II,Laos,"Phongsali, Buon Tai, Laos",match,Grosjean et al. (2015)
+2004.0309,Fejervarya limnocharis,Fejervarya limnocharis (Clade II),Fejervarya limnocharis,Clade II,Laos,"Phongsali, Nathen, Laos",match,Grosjean et al. (2015)
+2006.2411,Fejervarya limnocharis,Fejervarya limnocharis (Clade II),Fejervarya limnocharis,Clade II,Laos,"Louangphrabang, Ban Sop Khao",match,Grosjean et al. (2015)
+K3037,Fejervarya limnocharis,Fejervarya limnocharis (Clade II),Fejervarya limnocharis,Clade II,Thailand,"Chiang Mai, Doi Chiang Dao",match,Grosjean et al. (2015)
+K3085,Fejervarya limnocharis,Fejervarya limnocharis (Clade II),Fejervarya limnocharis,Clade II,Laos,"Louangphrabang, Ban Sop Khao",match,Grosjean et al. (2015)
+FM_HN_01,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,Northern Chinese Mainland,mismatch,"Wang et al. (2016), direct submission"
+FM_HN_02,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,Northern Chinese Mainland,mismatch,"Wang et al. (2016), direct submission"
+FM_HN_03,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,Northern Chinese Mainland,mismatch,"Wang et al. (2016), direct submission"
+FM_HN_04,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,Northern Chinese Mainland,mismatch,"Wang et al. (2016), direct submission"
+FM_HN_05,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,Northern Chinese Mainland,mismatch,"Wang et al. (2016), direct submission"
+FM_HN_06,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,Northern Chinese Mainland,mismatch,"Wang et al. (2016), direct submission"
+FM_HN_07,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,Northern Chinese Mainland,mismatch,"Wang et al. (2016), direct submission"
+FM_HN_08,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,Northern Chinese Mainland,mismatch,"Wang et al. (2016), direct submission"
+FM_HN_09,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,Northern Chinese Mainland,mismatch,"Wang et al. (2016), direct submission"
+FM_HN_10,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,Northern Chinese Mainland,mismatch,"Wang et al. (2016), direct submission"
+MZ44_MZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_1113_BZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_1121_BZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_13111_MZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_1317_MZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_1343_MZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_1345_MZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_1346_MZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_1516a_MT,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_1527_MZH,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_1611b_BBY,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_1621_BBY,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_1622b_BBY,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_1643b_BBY,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_1646b_BBY,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_1819b_DP,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_1826_DP,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_BBY29_BBY,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_BHQ07_DT,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_BHQ12_DT,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_BHQ14_DT,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_BZ09_BZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_BZ10_BZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_BZ13_BZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_BZ23_BZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_DL01_DL,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_DL02_DL,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_DL03_DL,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_DL11_DL,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_DL17_DL,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_DL18_DL,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_DT12_DT,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_DT2_DT,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_DT5_DT,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_DT8_DT,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_HS14_HS,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_HS16_HS,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_HS17_HS,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_MT02_MT,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_MT09_MT,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_MT10_MT,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_MT13_MT,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_MT16_MT,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_MT18_MT,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_MZ01_MZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_MZ04_MZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_MZ06_MZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_MZ09_MZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_MZ10_MZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+_ZWc_MZ11_MZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_MZ13_MZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_MZ14_MZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_MZ15_MZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_MZ16_MZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_MZ21_MZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_MZ22_MZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_MZ23_MZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_MZ26_MZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_MZ30_MZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_MZH15_MZH,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_QJX26_QXJ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_QJX31_QXJ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_QXJ37_QXJ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWc_QXJ46_QXJ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWd1102_BZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWd1103_BZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWd1117_BZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWd1135_BZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWd1211_BZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWd1215_DP,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWd1231_BZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWd1244_BZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWd1339_MZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWd1343_MZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWd1515_MT,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWd1516_MT,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWd1525_MT,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWd1548a_MZH,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWd1613_BBY,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWd1617b_BBY,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWd1619b_BBY,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWd1621b_BBY,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWd1634_BBY,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWd1641b_BBY,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWd1642b_BBY,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWd1647b_BBY,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWd1813b_DP,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWd1814_DP,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWd1814b_DP,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWd1818_DP,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWd1818b_DP,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWd1819sb_DP,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWd1842_DP,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWdBBY09_BBY,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWdBBY29_BBY,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWdBZ03_BZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWdBZ18_BZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWdBZ22_BZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWdCX03_CX,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWdCX16_CX,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWdCXD1033_CX,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWdDL01_DL,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWdDL04_DL,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWdDL06_DL,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWdDL07_DL,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWdDL09_DL,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWdDL14_DL,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWdDL15_DL,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWdDL17_DL,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWdDL18_DL,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWdDP12_DP,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWdDP18_DP,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWdDT2_DT,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWdHS001_HS,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWdHS037_HS,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWdHS12_HS,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWdHS17_HS,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWdMT02_MT,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWdMT03_MT,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWdMT08_MT,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWdMT09_MT,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWdMT13_MT,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWdMT18_MT,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWdMZ06_MZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWdMZ11_MZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWdMZ13_MZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWdMZ14_MZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWdMZ26_MZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWdMZ30_MZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWdMZ32_MZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWdMZ35_MZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWdMZ46_MZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWdMZ47_MZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWdMZH04_MZH,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWdMZH09_MZH,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWdMZH16_MZH,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWdQXJ43_QXJ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWd1819_DP,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWdBHQ06_DT,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+ZWdMZ36_MZ,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,"Chongming, Shanghai",mismatch,"Ding and Chen (2021), direct submission"
+15083,Fejervarya limnocharis,Fejervarya multistriata (Clade II),Fejervarya multistriata,Clade II,Taiwan,"Taiwan Province, Taichung City, Taichung",mismatch,Jang-Liaw and Chao (2008)
+17691,Fejervarya limnocharis,Fejervarya multistriata (Clade II),Fejervarya multistriata,Clade II,Taiwan,"Lienchiang County, Nangan Township, Fuwoling, Taiwan",mismatch,Jang-Liaw and Chao (2008)
+17744,Fejervarya limnocharis,Fejervarya multistriata (Clade II),Fejervarya multistriata,Clade II,Taiwan,"New Taipei City, Shimen District, Jutsao",mismatch,Jang-Liaw and Chao (2008)
+17620,Fejervarya limnocharis,Fejervarya multistriata (Clade I),Fejervarya multistriata,Clade I,China,"Guangdong, Shaoguan City, Juyuan County, Tianjingshan Forestry Station",mismatch,Jang-Liaw and Chao (2008)
+17674,Fejervarya limnocharis,Fejervarya multistriata (Clade I),Fejervarya multistriata,Clade I,China,"Fujian, Xiamen City, Xiamen University",mismatch,Jang-Liaw and Chao (2008)
+18178,Fejervarya limnocharis,Fejervarya multistriata (Clade II),Fejervarya multistriata,Clade II,Taiwan,"Pintung County, Jiadung Township, Hsiaputou",mismatch,Jang-Liaw and Chao (2008)
+18238,Fejervarya limnocharis,Fejervarya multistriata (Clade II),Fejervarya multistriata,Clade II,Taiwan,"Yilan County, Toucheng Township, Toucheng",mismatch,Jang-Liaw and Chao (2008)
+JL73-2-1,Fejervarya limnocharis,Fejervarya multistriata (Clade II),Fejervarya multistriata,Clade II,Taiwan,"Yilan County, Nan-ao",mismatch,Jang-Liaw and Chao (2008)
+JL73-2-2,Fejervarya limnocharis,Fejervarya multistriata (Clade II),Fejervarya multistriata,Clade II,Taiwan,"Yilan County, Nan-ao",mismatch,Jang-Liaw and Chao (2008)
+JL106,Fejervarya limnocharis,Fejervarya multistriata (Clade II),Fejervarya multistriata,Clade II,Taiwan,"Tainan City, Liouying",mismatch,Jang-Liaw and Chao (2008)
+JL66-2,Fejervarya limnocharis,Fejervarya multistriata (Clade II),Fejervarya multistriata,Clade II,Taiwan,"Taiwan Province, Pingtung County, Sandimen",mismatch,Grosjean et al. (2015)
+JL-19-2,Fejervarya limnocharis,Fejervarya multistriata (Clade II),Fejervarya multistriata,Clade II,Taiwan,"Hualien County, Shoufeng Township",mismatch,Jang-Liaw and Chao (2008)
+G024,Fejervarya limnocharis,Fejervarya limnocharis (Clade II),Fejervarya limnocharis,Clade II,China,"Hainan Island, China",match,Jang-Liaw and Chao (2008)
+JL02-1,Fejervarya limnocharis,Fejervarya limnocharis (Clade II),Fejervarya limnocharis,Clade II,Japan,"Chubu, Shizuoka Prefecture, Central",match,Grosjean et al. (2015)
+NMNSF15460,Fejervarya multistriata,Fejervarya limnocharis (Clade II),Fejervarya limnocharis,Clade II,Taiwan,"Pingtung County, Manjhou Township, Chiupeng",mismatch,Djong et al. (2007)
+fm1,Fejervarya multistriata,Fejervarya limnocharis (Clade II),Fejervarya limnocharis,Clade II,China,"N/a, but original depositor is from Xian",mismatch,"Wang et al. (2021), direct submission"
+TAD-P992,Fejervarya limnocharis,Fejervarya limnocharis (Clade II),Fejervarya limnocharis,Clade II,Thailand,"Phangnga, Namtok Raman Forest Park",match,"Chang and Liu (2010), direct submission"
+USNM:Herp:595381,Fejervarya limnocharis,Fejervarya limnocharis (Clade II),Fejervarya limnocharis,Clade II,Vietnam,south central extent of Trang An Landscape Complex,match,"Miller et al. (2022), direct submission"
+USNM:Herp:595383,Fejervarya limnocharis,Fejervarya limnocharis (Clade II),Fejervarya limnocharis,Clade II,Vietnam,"Du Gia Forest, Bac Me, 3.2 km of Khau Ca Reserve (straight-line distance)",match,"Miller et al. (2022), direct submission"
+H001,Fejervarya limnocharis,Fejervarya multistriata (Clade II),Fejervarya multistriata,Clade II,Taiwan,Taiwan Island,mismatch,Yang et al. (2023)
+H002,Fejervarya limnocharis,Fejervarya multistriata (Clade II),Fejervarya multistriata,Clade II,Taiwan,Taiwan Island,mismatch,Yang et al. (2023)
+H005,Fejervarya limnocharis,Fejervarya multistriata (Clade II),Fejervarya multistriata,Clade II,Taiwan,Taiwan Island,mismatch,Yang et al. (2023)
+H011,Fejervarya limnocharis,Fejervarya multistriata (Clade II),Fejervarya multistriata,Clade II,Taiwan,Taiwan Island,mismatch,Yang et al. (2023)
+H012,Fejervarya limnocharis,Fejervarya multistriata (Clade II),Fejervarya multistriata,Clade II,Taiwan,Taiwan Island,mismatch,Jiang et al. (2020)
+H013,Fejervarya limnocharis,Fejervarya multistriata (Clade II),Fejervarya multistriata,Clade II,Taiwan,Taiwan Island,mismatch,Jiang et al. (2020)
+GZBY01,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,Guangzhou,mismatch,Ding and Chen (2021)
+GZBY02,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,Guangzhou,mismatch,Ding and Chen (2021)
+GZBY04,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,Guangzhou,mismatch,ren et al. (2009)
+GZBY05,Fejervarya multistriata,Fejervarya kawamurai (Clade II),Fejervarya kawamurai,Clade II,China,Guangzhou,mismatch,Kotaki et al. (2010)
+mtDNA,Fejervarya multistriata,Fejervarya multistriata (Clade I),Fejervarya multistriata,Clade I,China,"Santai County, Mianyang City, Sichuan",match,"Kung et al. (2008), direct submission"
+ZWd1339,Fejervarya multistriata,Fejervarya multistriata (Clade I),Fejervarya multistriata,Clade I,China,"Chongming, Shanghai",match,Kurniawan et al. (2010)
+MZ44_MZ,Fejervarya multistriata,Fejervarya multistriata (Clade I),Fejervarya multistriata,Clade I,China,"Chongming, Shanghai",match,Kurniawan et al. (2010)
+full mtDNA,Fejervarya cf. cancrivora,Fejervarya cancrivora,Fejervarya cancrivora,,China,"Beihai, Guangxi",mismatch,Kurniawan et al. (2010)
+MS-2009 (MS-can-Mal),Fejervarya cf. cancrivora,Fejervarya cancrivora,Fejervarya cancrivora,,Malaysia,Selangor,mismatch,Kotaki et al. (2010)
+Jiadong-13,Fejervarya cancrivora,Fejervarya moodiei,Fejervarya moodiei,,China,Jiadong,mismatch,Kotaki et al. (2010)
+FCL-16S-1,Fejervarya cancrivora,Fejervarya cancrivora,Fejervarya cancrivora,,Indonesia,"Cianjur, Java",match,Chung et al. (2022)
+FCL-16S-2,Fejervarya cancrivora,Fejervarya cancrivora,Fejervarya cancrivora,,Indonesia,"West Sumatra, Padang",match,Chung et al. (2022)
+FCL-16S-7,Fejervarya cancrivora,Fejervarya cancrivora,Fejervarya cancrivora,,Indonesia,"Central Java, Banyumas",match,Chung et al. (2022)
+IEBR A.5085,Fejervarya moodiei,Fejervarya moodiei,Fejervarya moodiei,,Vietnam,Nam Dinh,match,Chung et al. (2022)
+IEBR A.5089,Fejervarya moodiei,Fejervarya moodiei,Fejervarya moodiei,,Vietnam,Nam Dinh,match,Hoang et al. (2022)
+IEBR A.5091,Fejervarya moodiei,Fejervarya moodiei,Fejervarya moodiei,,Vietnam,Nam Dinh,match,Hoang et al. (2022)
+IEBR A.5097,Fejervarya moodiei,Fejervarya moodiei,Fejervarya moodiei,,Vietnam,Thua Thien Hue,match,Hoang et al. (2022)
+IEBR A.5096,Fejervarya moodiei,Fejervarya moodiei,Fejervarya moodiei,,Vietnam,Thua Thien Hue,match,Hoang et al. (2022)
+IEBR A.5098,Fejervarya moodiei,Fejervarya moodiei,Fejervarya moodiei,,Vietnam,Hai Phong,match,Hoang et al. (2022)
+IEBR A.5099,Fejervarya moodiei,Fejervarya moodiei,Fejervarya moodiei,,Vietnam,Hai Phong,match,Hoang et al. (2022)
+IEBR A.5101,Fejervarya moodiei,Fejervarya moodiei,Fejervarya moodiei,,Vietnam,Ca Mau,match,Hoang et al. (2022)
+CG9CaMau,Fejervarya moodiei,Fejervarya moodiei,Fejervarya moodiei,,Vietnam,Ca Mau,match,Hoang et al. (2022)
+full mtDNA,Hoplobatrachus rugulosus,Hoplobatrachus chinensis,Hoplobatrachus chinensis,,,"Jinhua, Zhejiang",mismatch,Hoang et al. (2022)
+full mtDNA,Hoplobatrachus rugulosus,Hoplobatrachus chinensis,Hoplobatrachus chinensis,,,Anhui,mismatch,Yu et al. (2015)
+full mtDNA,Hoplobatrachus chinensis x rugulosus,Hoplobatrachus chinensis,Hoplobatrachus chinensis,,China,"Jinhua, Zhejiang",mismatch,Pan et al. (2012)
+JHBT-B4,Hoplobatrachus rugulosus,Hoplobatrachus chinensis,Hoplobatrachus chinensis,,China,"the Bendi farm in Jinhua, Zhejiang",mismatch,Cai et al. (2018)
+JHBT-B3,Hoplobatrachus rugulosus,Hoplobatrachus chinensis,Hoplobatrachus chinensis,,China,"the Bendi farm in Jinhua, Zhejiang",mismatch,Yu et al. (2015)
+JHBT-B2,Hoplobatrachus rugulosus,Hoplobatrachus chinensis,Hoplobatrachus chinensis,,China,"the Bendi farm in Jinhua, Zhejiang",mismatch,Yu et al. (2015)
+JHBT-B1,Hoplobatrachus rugulosus,Hoplobatrachus chinensis,Hoplobatrachus chinensis,,China,"the Bendi farm in Jinhua, Zhejiang",mismatch,Yu et al. (2015)
+FMNH 255191,Hoplobatrachus rugulosus,Hoplobatrachus chinensis,Hoplobatrachus chinensis,,Laos,"Laos: Champasak Province, Mounlapamok District, Dong Khanthung National Biodiversity Conservation Area",mismatch,Yu et al. (2015)
+HN1,Hoplobatrachus rugulosus,Hoplobatrachus chinensis,Hoplobatrachus chinensis,,China,"the 'Hainan' farm in Jinhua, Zhejiang",mismatch,Frost et al. (2017)
+HN2,Hoplobatrachus rugulosus,Hoplobatrachus chinensis,Hoplobatrachus chinensis,,China,"the 'Hainan' farm in Jinhua, Zhejiang",mismatch,Yu et al. (2015)
+HN3,Hoplobatrachus rugulosus,Hoplobatrachus chinensis,Hoplobatrachus chinensis,,China,"the 'Hainan' farm in Jinhua, Zhejiang",mismatch,Yu et al. (2015)
+HW1,Hoplobatrachus rugulosus,Hoplobatrachus chinensis,Hoplobatrachus chinensis,,China,"the Huwawa farm in Jinhua, Zhejiang",mismatch,Yu et al. (2015)
+HW5,Hoplobatrachus rugulosus,Hoplobatrachus chinensis,Hoplobatrachus chinensis,,China,"the Huwawa farm in Jinhua, Zhejiang",mismatch,Yu et al. (2015)
+HW6,Hoplobatrachus rugulosus,Hoplobatrachus chinensis,Hoplobatrachus chinensis,,China,"the Huwawa farm in Jinhua, Zhejiang",mismatch,Yu et al. (2015)
+THW1,Hoplobatrachus rugulosus,Hoplobatrachus chinensis,Hoplobatrachus chinensis,,China,"the Huwawa farm in Jinhua, Zhejiang",mismatch,Yu et al. (2015)
+NW1,Hoplobatrachus rugulosus,Hoplobatrachus chinensis,Hoplobatrachus chinensis,,China,"the Niuwa farm in Jinhua, Zhejiang",mismatch,Yu et al. (2015)
+NW2,Hoplobatrachus rugulosus,Hoplobatrachus chinensis,Hoplobatrachus chinensis,,China,"the Niuwa farm in Jinhua, Zhejiang",mismatch,Yu et al. (2015)
+JHBT-W7,Hoplobatrachus rugulosus,Hoplobatrachus chinensis,Hoplobatrachus chinensis,,China,"the Wu farm in Jinhua, Zhejiang",mismatch,Yu et al. (2015)
+JHBT-W8,Hoplobatrachus rugulosus,Hoplobatrachus chinensis,Hoplobatrachus chinensis,,China,"the Wu farm in Jinhua, Zhejiang",mismatch,Yu et al. (2015)
+WZ2,Hoplobatrachus rugulosus,Hoplobatrachus chinensis,Hoplobatrachus chinensis,,China,"Jinhua, Zhejiang",mismatch,Yu et al. (2015)
+WZ3,Hoplobatrachus rugulosus,Hoplobatrachus chinensis,Hoplobatrachus chinensis,,China,"Jinhua, Zhejiang",mismatch,Alam et al. (2010)
+full mtDNA,Hoplobatrachus tigerinus,Hoplobatrachus tigerinus,Hoplobatrachus tigerinus,,Bangladesh,Mymensingh,match,Yan et al. (2021)
+KIZ021611,Quasipaa spinosa,Quasipaa spinosa,Quasipaa spinosa,,China,"Yuanbaoshan, Guangxi",match,Yan et al. (2021)
+KIZ021613,Quasipaa shini,Quasipaa shini,Quasipaa shini,,China,"Yuanbaoshan, Guangxi",match,Yan et al. (2021)
+KIZ022191,Quasipaa spinosa,Quasipaa spinosa,Quasipaa spinosa,,China,"Fulong, Guangxi",match,Yan et al. (2021)
+KIZ02340,Quasipaa yei,Quasipaa yei,Quasipaa yei,,China,"Shangcheng, Henan",match,Yan et al. (2021)
+KIZ02412,Quasipaa yei,Quasipaa yei,Quasipaa yei,,China,"Shangcheng, Henan",match,Yan et al. (2021)
+KIZ03107,Quasipaa boulengeri,Quasipaa boulengeri,Quasipaa boulengeri,,China,"Youyang, Chongqing",match,Yan et al. (2021)
+KIZ04714,Quasipaa spinosa,Quasipaa spinosa,Quasipaa spinosa,,China,"Huizhou, Guangdong",match,Yan et al. (2021)
+KIZ08918,Quasipaa jiulongensis,Quasipaa jiulongensis,Quasipaa jiulongensis,,China,"Wuyishan, Fujian",match,Yan et al. (2021)
+KIZ08932,Quasipaa exilispinosa,Quasipaa exilispinosa,Quasipaa exilispinosa,,China,"Wuyishan, Fujian",match,Yan et al. (2021)
+KIZ08997,Quasipaa spinosa,Quasipaa spinosa,Quasipaa spinosa,,China,"Daiyunshan, Fujian",match,Yan et al. (2021)
+KIZ09096,Quasipaa spinosa,Quasipaa spinosa,Quasipaa spinosa,,China,"Qixingzhen, Guangdong",match,Yan et al. (2021)
+KIZ09282,Quasipaa spinosa,Quasipaa spinosa,Quasipaa spinosa,,China,"Chongzuo, Guangxi",match,Yan et al. (2021)
+KIZ09706,Quasipaa spinosa,Quasipaa spinosa,Quasipaa spinosa,,China,"Yangjiang, Guangdong",match,Yan et al. (2021)
+KIZJX0709008,Quasipaa spinosa,Quasipaa spinosa,Quasipaa spinosa,,China,"Lushan, Jiangxi",match,Yan et al. (2021)
+KIZYPX18607,Quasipaa spinosa,Quasipaa spinosa,Quasipaa spinosa,,China,"Xinying, Guangdong",match,Yan et al. (2021)
+KIZ01575,Quasipaa exilispinosa,Quasipaa exilispinosa,Quasipaa exilispinosa,,"Hong Kong, Special Administrative Region (SAR) of China","Damaoshan, Hongkong",match,Yan et al. (2021)
+KIZ07219,Quasipaa exilispinosa,Quasipaa exilispinosa,Quasipaa exilispinosa,,China,"Xunwu, Jiangxi",match,Yan et al. (2021)
+KIZ08934,Quasipaa exilispinosa,Quasipaa exilispinosa,Quasipaa exilispinosa,,China,"Wuyishan, Fujian",match,Yan et al. (2021)
+KIZ08935,Quasipaa exilispinosa,Quasipaa exilispinosa,Quasipaa exilispinosa,,China,"Wuyishan, Fujian",match,Yan et al. (2021)
+KIZ08936,Quasipaa exilispinosa,Quasipaa exilispinosa,Quasipaa exilispinosa,,China,"Wuyishan, Fujian",match,Yan et al. (2021)
+KIZ08938,Quasipaa exilispinosa,Quasipaa exilispinosa,Quasipaa exilispinosa,,China,"Wuyishan, Fujian",match,Yan et al. (2021)
+KIZ08920,Quasipaa jiulongensis,Quasipaa jiulongensis,Quasipaa jiulongensis,,China,"Wuyishan, Fujian",match,Yan et al. (2021)
+KIZ02397,Quasipaa shini,Quasipaa shini,Quasipaa shini,,China,"Kaili, Guizhou",match,Yan et al. (2021)
+KIZ09282,Quasipaa spinosa,Quasipaa spinosa,Quasipaa spinosa,,China,"Chongzuo, Guangxi",match,Yan et al. (2021)
+KIZC21,Quasipaa spinosa,Quasipaa spinosa,Quasipaa spinosa,,China,"Huangshanpo, Anhui",match,Yan et al. (2021)
+KIZ021611,Quasipaa spinosa,Quasipaa spinosa,Quasipaa spinosa,,China,"China: Yuanbaoshan, Guangxi",match,Yan et al. (2021)
+HiroshimaShiga,Fejervarya kawamurai,Fejervarya kawamurai (Clade I),Fejervarya kawamurai,Clade I,Japan,"Shiga, Japan",match,Yan et al. (2021)
+Karasuma,Fejervarya kawamurai,Fejervarya kawamurai (Clade I),Fejervarya kawamurai,Clade I,Japan,"Shiga, Japan",match,Kakehashi et al. (2022)
+JL02_1,Fejervarya limnocharis,Fejervarya kawamurai (Clade I),Fejervarya kawamurai,Clade I,Japan,"Chubu, Shizuoka Prefecture, Central Region, Shizuoka City, Shizuoka",mismatch,Kakehashi et al. (2022)
+Okin,Fejervarya limnocharis,Fejervarya kawamurai (Clade I),Fejervarya kawamurai,Clade I,Japan,Okinawa,mismatch,Kakehashi et al. (2022)
+Okin_1_,Fejervarya limnocharis,Fejervarya kawamurai (Clade I),Fejervarya kawamurai,Clade I,Japan,Okinawa,mismatch,Sumida et al. (2002)
+Okin_2_,Fejervarya limnocharis,Fejervarya kawamurai (Clade I),Fejervarya kawamurai,Clade I,Japan,"Okinawa, Japan",mismatch,Sumida et al. (2002)
+japo_higa,Fejervarya limnocharis,Fejervarya kawamurai (Clade I),Fejervarya kawamurai,Clade I,Japan,"Higasihiroshima, Kagamiyama, Japan",mismatch,Sumida et al. (2002)
+japo_hiro,Fejervarya limnocharis,Fejervarya kawamurai (Clade I),Fejervarya kawamurai,Clade I,Japan,"Hiroshima, Japan",mismatch,Djong et al. (2007)
+Hiroshima_1,Fejervarya sp.,Fejervarya kawamurai (Clade I),Fejervarya kawamurai,Clade I,Japan,"Hiroshima, Japan",mismatch,Djong et al. (2007)
+G024,Fejervarya limnocharis,Fejervarya multistriata (Clade II),Fejervarya multistriata,Clade II,China,"Hainan Island, China",mismatch,Sumida et al. (2002)
+HS12001,Fejervarya multistriata,Fejervarya multistriata (Clade II),Fejervarya multistriata,Clade II,China,"Santai County, Mianyang City, Sichuan province, China",match,Grosjean et al. (2015)
+Husa,Fejervarya multistriata,Fejervarya multistriata (Clade II),Fejervarya multistriata,Clade II,China,"Husa, China",match,Jiang et al. (2020)
+zjbj3,Fejervarya multistriata,Fejervarya multistriata (Clade II),Fejervarya multistriata,Clade II,China,"Ji’an city, Jiangxi Province, China",match,Kotaki et al. (2010)
+16SF15,Fejervarya limnocharis,Fejervarya limnocharis (Clade I),Fejervarya limnocharis,Clade I,Indonesia,West Kalimantan,match,Huang and Tu (2016)
+16SSG18,Fejervarya limnocharis,Fejervarya limnocharis (Clade I),Fejervarya limnocharis,Clade I,Malaysia,"Sabah, Borneo",match,Goutte et al. (2016)
+FMNH 261984,Fejervarya limnocharis,Fejervarya limnocharis (Clade I),Fejervarya limnocharis,Clade I,Verified,*No exact locality but verified ito be originated from Laos,match,
+MVZ226347,Fejervarya limnocharis,Fejervarya limnocharis (Clade I),Fejervarya limnocharis,Clade I,China,Southern Chinese Mainland,match,Che et al. (2010)
+Malay,Fejervarya limnocharis,Fejervarya limnocharis (Clade I),Fejervarya limnocharis,Clade I,Malaysia,Peninsular Malaysia,match,Kotaki et al. (2008)
+NA0083,Fejervarya limnocharis,Fejervarya limnocharis (Clade I),Fejervarya limnocharis,Clade I,Malaysia,Sarawak,match,Zainuddin et al. (2008)
+NA0084,Fejervarya limnocharis,Fejervarya limnocharis (Clade I),Fejervarya limnocharis,Clade I,Malaysia,Sarawak,match,Zainuddin et al. (2008)
+Rano,Fejervarya limnocharis,Fejervarya limnocharis (Clade I),Fejervarya limnocharis,Clade I,Thailand,Ranong,match,Che et al. (2016)
+SCUM04H001,Fejervarya limnocharis,Fejervarya limnocharis (Clade I),Fejervarya limnocharis,Clade I,China,Hainan Island,match,Flury et al. (2021)
+SH0034,Fejervarya limnocharis,Fejervarya limnocharis (Clade I),Fejervarya limnocharis,Clade I,,Borneo,match,Zainuddin et al. (2008)
+SNP0261,Fejervarya limnocharis,Fejervarya limnocharis (Clade I),Fejervarya limnocharis,Clade I,,"Sarawak, Malaysia",match,Inger and Stuart (2010)
+Thai 1,Fejervarya limnocharis,Fejervarya limnocharis (Clade I),Fejervarya limnocharis,Clade I,,"Nakhon Si Thammarat, Thailand",match,Kotaki et al. (2008)
+Thai 5,Fejervarya limnocharis,Fejervarya limnocharis (Clade I),Fejervarya limnocharis,Clade I,,"Sanam Chaiket, Thailand",match,Kotaki et al. (2008)
+Thai 6,Fejervarya limnocharis,Fejervarya limnocharis (Clade I),Fejervarya limnocharis,Clade I,,"Bangkok, Thailand",match,Kotaki et al. (2008)
+Thai 7,Fejervarya limnocharis,Fejervarya limnocharis (Clade I),Fejervarya limnocharis,Clade I,,"Sara Buri, Thailand",match,Kotaki et al. (2008)
+SH13_027,Fejervarya limnocharis,Fejervarya limnocharis (Clade I),Fejervarya limnocharis,Clade I,,Borneo,match,Flury et al. (2022)
+lim 1,Fejervarya cf. limnocharis,Fejervarya limnocharis (Clade I),Fejervarya limnocharis,Clade I,,"Java, Indonesia",mismatch,Kotaki et al. (2010)
+lim 10,Fejervarya cf. limnocharis,Fejervarya limnocharis (Clade I),Fejervarya limnocharis,Clade I,,"Sapa, Vietnam",mismatch,Flurry et al. (2021)
+lim 11,Fejervarya cf. limnocharis,Fejervarya limnocharis (Clade I),Fejervarya limnocharis,Clade I,,"Phongsaly, Laos",mismatch,Kotaki et al. (2010)
+lim 12,Fejervarya cf. limnocharis,Fejervarya limnocharis (Clade I),Fejervarya limnocharis,Clade I,,Cambodia,mismatch,Kotaki et al. (2010)
+lim 2,Fejervarya cf. limnocharis,Fejervarya limnocharis (Clade I),Fejervarya limnocharis,Clade I,,"Java, Indonesia",mismatch,Kotaki et al. (2010)
+lim 3,Fejervarya cf. limnocharis,Fejervarya limnocharis (Clade I),Fejervarya limnocharis,Clade I,,"Kuala Lumpur, Malaysia",mismatch,Kotaki et al. (2010)
+lim 4,Fejervarya cf. limnocharis,Fejervarya limnocharis (Clade I),Fejervarya limnocharis,Clade I,,"Kuala Lumpur, Malaysia",mismatch,Kotaki et al. (2010)
+lim 5,Fejervarya cf. limnocharis,Fejervarya limnocharis (Clade I),Fejervarya limnocharis,Clade I,,"Ranong, Thailand",mismatch,Kotaki et al. (2010)
+lim 6,Fejervarya cf. limnocharis,Fejervarya limnocharis (Clade I),Fejervarya limnocharis,Clade I,,"Tha Ton, Thailand",mismatch,Kotaki et al. (2010)
+lim 8,Fejervarya cf. limnocharis,Fejervarya limnocharis (Clade I),Fejervarya limnocharis,Clade I,,"Phang Nga, Thailand",mismatch,Kotaki et al. (2010)
+lim 9,Fejervarya cf. limnocharis,Fejervarya limnocharis (Clade I),Fejervarya limnocharis,Clade I,,"Phang Nga, Thailand",mismatch,Kotaki et al. (2010)
+limno,Fejervarya cf. limnocharis,Fejervarya limnocharis (Clade I),Fejervarya limnocharis,Clade I,,"Java, Indonesia",mismatch,Kotaki et al. (2010)
