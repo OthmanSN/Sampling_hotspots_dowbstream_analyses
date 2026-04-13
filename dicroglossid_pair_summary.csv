@@ -1,0 +1,28 @@
+genbank_species,a1_assignment,match_status,n
+Fejervarya multistriata,Fejervarya kawamurai (Clade II),mismatch,154
+Fejervarya limnocharis,Fejervarya kawamurai (Clade II),mismatch,44
+Fejervarya limnocharis,Fejervarya kawamurai (Clade I),mismatch,39
+Fejervarya limnocharis,Fejervarya limnocharis (Clade II),match,32
+Hoplobatrachus rugulosus,Hoplobatrachus chinensis,mismatch,20
+Fejervarya limnocharis,Fejervarya multistriata (Clade II),mismatch,17
+Fejervarya limnocharis,Fejervarya limnocharis (Clade I),match,16
+Fejervarya cf. limnocharis,Fejervarya limnocharis (Clade I),mismatch,12
+Quasipaa spinosa,Quasipaa spinosa,match,12
+Fejervarya moodiei,Fejervarya moodiei,match,9
+Quasipaa exilispinosa,Quasipaa exilispinosa,match,7
+Fejervarya cancrivora,Fejervarya cancrivora,match,3
+Fejervarya kawamurai,Fejervarya kawamurai (Clade I),match,3
+Fejervarya multistriata,Fejervarya multistriata (Clade I),match,3
+Fejervarya multistriata,Fejervarya multistriata (Clade II),match,3
+Fejervarya cf. cancrivora,Fejervarya cancrivora,mismatch,2
+Fejervarya limnocharis,Fejervarya multistriata (Clade I),mismatch,2
+Fejervarya multistriata,Fejervarya limnocharis (Clade II),mismatch,2
+Quasipaa jiulongensis,Quasipaa jiulongensis,match,2
+Quasipaa shini,Quasipaa shini,match,2
+Quasipaa yei,Quasipaa yei,match,2
+Fejervarya cancrivora,Fejervarya moodiei,mismatch,1
+Fejervarya sakishimensis,Fejervarya sakishimensis,match,1
+Fejervarya sp.,Fejervarya kawamurai (Clade I),mismatch,1
+Hoplobatrachus chinensis x rugulosus,Hoplobatrachus chinensis,mismatch,1
+Hoplobatrachus tigerinus,Hoplobatrachus tigerinus,match,1
+Quasipaa boulengeri,Quasipaa boulengeri,match,1
