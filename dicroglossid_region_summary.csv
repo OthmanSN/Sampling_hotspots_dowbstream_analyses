@@ -1,0 +1,47 @@
+country,genbank_species,a1_assignment,match_status,n
+Bangladesh,Hoplobatrachus tigerinus,Hoplobatrachus tigerinus,match,1
+China,Fejervarya multistriata,Fejervarya kawamurai (Clade II),mismatch,154
+China,Fejervarya limnocharis,Fejervarya kawamurai (Clade II),mismatch,44
+China,Fejervarya limnocharis,Fejervarya kawamurai (Clade I),mismatch,33
+China,Hoplobatrachus rugulosus,Hoplobatrachus chinensis,mismatch,17
+China,Quasipaa spinosa,Quasipaa spinosa,match,12
+China,Quasipaa exilispinosa,Quasipaa exilispinosa,match,6
+China,Fejervarya limnocharis,Fejervarya limnocharis (Clade II),match,4
+China,Fejervarya multistriata,Fejervarya multistriata (Clade I),match,3
+China,Fejervarya multistriata,Fejervarya multistriata (Clade II),match,3
+China,Fejervarya limnocharis,Fejervarya limnocharis (Clade I),match,2
+China,Fejervarya limnocharis,Fejervarya multistriata (Clade I),mismatch,2
+China,Quasipaa jiulongensis,Quasipaa jiulongensis,match,2
+China,Quasipaa shini,Quasipaa shini,match,2
+China,Quasipaa yei,Quasipaa yei,match,2
+China,Fejervarya cancrivora,Fejervarya moodiei,mismatch,1
+China,Fejervarya cf. cancrivora,Fejervarya cancrivora,mismatch,1
+China,Fejervarya kawamurai,Fejervarya kawamurai (Clade I),match,1
+China,Fejervarya limnocharis,Fejervarya multistriata (Clade II),mismatch,1
+China,Fejervarya multistriata,Fejervarya limnocharis (Clade II),mismatch,1
+China,Hoplobatrachus chinensis x rugulosus,Hoplobatrachus chinensis,mismatch,1
+China,Quasipaa boulengeri,Quasipaa boulengeri,match,1
+"Hong Kong, Special Administrative Region (SAR) of China",Quasipaa exilispinosa,Quasipaa exilispinosa,match,1
+Indonesia,Fejervarya cancrivora,Fejervarya cancrivora,match,3
+Indonesia,Fejervarya limnocharis,Fejervarya limnocharis (Clade I),match,1
+Japan,Fejervarya limnocharis,Fejervarya kawamurai (Clade I),mismatch,6
+Japan,Fejervarya kawamurai,Fejervarya kawamurai (Clade I),match,2
+Japan,Fejervarya limnocharis,Fejervarya limnocharis (Clade II),match,1
+Japan,Fejervarya sakishimensis,Fejervarya sakishimensis,match,1
+Japan,Fejervarya sp.,Fejervarya kawamurai (Clade I),mismatch,1
+Laos,Fejervarya limnocharis,Fejervarya limnocharis (Clade II),match,4
+Laos,Hoplobatrachus rugulosus,Hoplobatrachus chinensis,mismatch,1
+Malaysia,Fejervarya limnocharis,Fejervarya limnocharis (Clade I),match,4
+Malaysia,Fejervarya cf. cancrivora,Fejervarya cancrivora,mismatch,1
+Myanmar,Fejervarya limnocharis,Fejervarya limnocharis (Clade II),match,3
+Taiwan,Fejervarya limnocharis,Fejervarya multistriata (Clade II),mismatch,16
+Taiwan,Fejervarya multistriata,Fejervarya limnocharis (Clade II),mismatch,1
+Thailand,Fejervarya limnocharis,Fejervarya limnocharis (Clade II),match,13
+Thailand,Fejervarya limnocharis,Fejervarya limnocharis (Clade I),match,1
+Verified,Fejervarya limnocharis,Fejervarya limnocharis (Clade I),match,1
+Verified,Fejervarya limnocharis,Fejervarya limnocharis (Clade II),match,1
+Vietnam,Fejervarya moodiei,Fejervarya moodiei,match,9
+Vietnam,Fejervarya limnocharis,Fejervarya limnocharis (Clade II),match,6
+,Fejervarya cf. limnocharis,Fejervarya limnocharis (Clade I),mismatch,12
+,Fejervarya limnocharis,Fejervarya limnocharis (Clade I),match,7
+,Hoplobatrachus rugulosus,Hoplobatrachus chinensis,mismatch,2
